@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dataset
+dataset.zip
+images/
+original_images/
+
+# Jupyter
+.ipynb_checkpoints/
